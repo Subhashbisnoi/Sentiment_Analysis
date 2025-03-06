@@ -1,4 +1,6 @@
 # 🍽️ Restaurant Review Sentiment Analyzer
+**Live Demo**: [Sentiment Analysis App](https://subhashbisnoi-sentiment-analysis-app-uyki5x.streamlit.app/)  
+
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
